@@ -1,0 +1,8 @@
+Inf: 	Infrastructure
+Dep:	Touch sensing dependence
+Diff: 	User differentiation
+Int: 	Points of interaction	
+Inst: 	Instantaneity
+Mob:	User mobility
+Pos:	Interaction position
+Size:	Surface size
